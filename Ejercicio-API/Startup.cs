@@ -34,7 +34,6 @@ namespace Ejercicio_API
 
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
             services.AddServiceRegistry();
 
             services.Configure<ConnectionStrings>(Configuration.GetSection("ConnectionStrings"));
@@ -44,6 +43,8 @@ namespace Ejercicio_API
             {
                 c.SwaggerDoc("v1", new OpenApiInfo { Title = "Ejercicio_API", Version = "v1" });
             });
+
+            services.AddAutoMapper(AppDomain.CurrentDomain.GetAssemblies());
 
             var connectionString = Configuration.GetConnectionString("DefaultConnection");
 

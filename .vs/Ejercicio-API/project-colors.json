@@ -10,7 +10,27 @@
       "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
       "DisplayName": "Archivos varios",
       "ColorIndex": -1
+    },
+    "bb409e57-ee64-4d27-a364-9f3f35497247": {
+      "ProjectGuid": "bb409e57-ee64-4d27-a364-9f3f35497247",
+      "DisplayName": "Ejercicio-API.Core",
+      "ColorIndex": 1
+    },
+    "df930471-4cdd-4e30-af44-b0687eea69c7": {
+      "ProjectGuid": "df930471-4cdd-4e30-af44-b0687eea69c7",
+      "DisplayName": "Ejercicio-API.Model",
+      "ColorIndex": 2
+    },
+    "f21a9c3b-2fa8-437e-8a22-2dfc3f31b3c9": {
+      "ProjectGuid": "f21a9c3b-2fa8-437e-8a22-2dfc3f31b3c9",
+      "DisplayName": "Ejercicio-API.Services",
+      "ColorIndex": 3
+    },
+    "0d34ac3a-a7f1-48e0-a116-7768c6706f7d": {
+      "ProjectGuid": "0d34ac3a-a7f1-48e0-a116-7768c6706f7d",
+      "DisplayName": "Ejercicio-API.Bl",
+      "ColorIndex": 4
     }
   },
-  "NextColorIndex": 1
+  "NextColorIndex": 5
 }
