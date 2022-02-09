@@ -1,0 +1,12 @@
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\bin\Debug\net5.0\Ejercicio-API.Core.deps.json
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\bin\Debug\net5.0\Ejercicio-API.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\bin\Debug\net5.0\ref\Ejercicio-API.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\bin\Debug\net5.0\Ejercicio-API.Core.pdb
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.csproj.AssemblyReference.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.AssemblyInfoInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.AssemblyInfo.cs
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.csproj.CoreCompileInputs.cache
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\ref\Ejercicio-API.Core.dll
+C:\Users\hrami\Desktop\WorkShop - Solvex\Ejercicio-API\Ejercicio-API.Core\obj\Debug\net5.0\Ejercicio-API.Core.pdb
