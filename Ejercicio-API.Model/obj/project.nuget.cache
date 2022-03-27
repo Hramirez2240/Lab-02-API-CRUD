@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7nlhIF5piczO2+H9hB9sPIuZYCVRLUp1BbZUvUCa22YEZL06UCedy09z+nQprIc/Sof3mQmx46YQw8QqeVyMsA==",
+  "dgSpecHash": "zZKIE8fydnnP3kOpItMFxRtLhgbmu2s5r3zvjmq2s+JsnikoPAHNVVBIQXCh802WAVQICCqaV0RKoJEf3DUZWA==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API.Model\\Ejercicio-API.Model.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API.Model\\Ejercicio-API.Model.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\humanizer.core\\2.8.26\\humanizer.core.2.8.26.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.csharp\\4.7.0\\microsoft.csharp.4.7.0.nupkg.sha512",

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "v/dZZodcaH6rkLCdf89RvcleU7CZjFZ0Dp1rwCWw6QC6GvLKB6Cxz/VSUx4gvJkF4f7V2z0XB+1FPN86q+Ym5g==",
+  "dgSpecHash": "j2TupSxZRqs6ZV/tdLL2qp8Fm9+cPJMhJElVirKYJeyXnliyBEqtY62L1ZWr0za9npLZmh1l2SIXSJKaJ536Kw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API\\Ejercicio-API.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API\\Ejercicio-API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

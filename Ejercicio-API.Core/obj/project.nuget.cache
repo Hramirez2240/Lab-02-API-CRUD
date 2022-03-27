@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Q/uuwcrMdkqhzPBbhvnJrUH5KJXwXDRViHrUKHzKAa72+JzJ1HJ51OOtG7uFY3jF3xEaOWPUND6xl1b1+DSEYQ==",
+  "dgSpecHash": "EEyEjqU48VP2NjLELTnwa6VFKinlSoLVyxjECo0X3aDK2au+e3jsKZpbF+kFcmhLQY+Lltcp0om5dIRbG8C8vw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\hrami\\Desktop\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API.Core\\Ejercicio-API.Core.csproj",
+  "projectFilePath": "C:\\Users\\hrami\\Desktop\\Solvex\\WorkShop - Solvex\\Ejercicio-API\\Ejercicio-API.Core\\Ejercicio-API.Core.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\5.0.2\\microsoft.extensions.dependencyinjection.5.0.2.nupkg.sha512",
     "C:\\Users\\hrami\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\5.0.0\\microsoft.extensions.dependencyinjection.abstractions.5.0.0.nupkg.sha512"
